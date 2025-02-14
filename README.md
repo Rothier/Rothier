@@ -29,4 +29,4 @@ Cientista de Dados com experiência em Python, SQL e desenvolvimento full-stack 
 **DevOps:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-orange?style=flat-square&logo=) ![Scrum](https://img.shields.io/badge/Scrum-blue?style=flat-square&logo=) ## Projetos em Destaque
+![Kanban](https://img.shields.io/badge/Kanban-orange?style=flat-square&logo=) ![Scrum](https://img.shields.io/badge/Scrum-blue?style=flat-square&logo=)
