@@ -1,4 +1,4 @@
-# Alexandre Alves dos Santos Rothier Duarte
+# Alexandre Rothier
 
 Cientista de Dados com experiência em Python, SQL e desenvolvimento full-stack | Buscando oportunidades para aplicar minhas habilidades em análise de dados, automação e desenvolvimento em nuvem.
 
