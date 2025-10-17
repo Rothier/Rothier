@@ -1,6 +1,6 @@
 # Alexandre Rothier
 
-Data Scientist | Cloud & AI Solutions
+Data Scientist & Engineer| Cloud & AI Solutions
 
 ---
 
